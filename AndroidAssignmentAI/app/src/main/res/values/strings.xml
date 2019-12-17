@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAssignmentAI</string>
+    <string name="welcome_to_android_assignment">Welcome to Android Assignment</string>
+    <string name="fetch_posts">Fetch Posts</string>
+</resources>
