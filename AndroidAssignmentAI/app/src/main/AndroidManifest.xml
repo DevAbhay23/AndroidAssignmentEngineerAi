@@ -13,13 +13,13 @@
         android:theme="@style/AppTheme"
         android:networkSecurityConfig="@xml/network_config"
         >
-        <activity android:name=".activities.PostsListActivity"></activity>
-        <activity android:name=".activities.MainActivity">
+        <activity android:name=".activities.PostsListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
     </application>
 
